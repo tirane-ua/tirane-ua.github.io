@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Українці в Тирані | Албанія"
+                 start-page="index.md">
+
+    <toc-element topic="index.md"/>
+    <toc-element topic="Tutorial.md"/>
+    <toc-element topic="Житло-оренда-житла.md"/>
+    <toc-element topic="Мобільний-зв-язок.md"/>
+    <toc-element topic="Інтернет.md"/>
+    <toc-element topic="Транспорт.md"/>
+    <toc-element topic="Медицина.md"/>
+    <toc-element topic="Магазини-покупки.md"/>
+    <toc-element topic="Ресторани-бари.md"/>
+    <toc-element topic="Доставка-пошта.md"/>
+    <toc-element topic="Авто.md"/>
+    <toc-element topic="Інше.md"/>
+</instance-profile>
