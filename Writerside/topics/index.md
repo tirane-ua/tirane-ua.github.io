@@ -1,10 +1,5 @@
 # Перебування в Албанії
 
-<!--Writerside adds this topic when you create a new documentation project.
-You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.
-If you want to re-add it for your experiments, click + to create a new topic, choose Topic from Template, and select the 
-"Starter" template.-->
-
 ## Скільки можна знаходитись в Албанії?
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
@@ -31,7 +26,7 @@ And here is how you can include a snippet from a library:
 
 <include from="lib.md" element-id="sample"/>
 
-## Чи є якась процедура реєстрації біженців? чи я просто можу перебувати на території до 2 років без будь-якої реєстрації?
+## Які процедури реєстрації біженців? Чи я просто можу перебувати на території до 2 років без будь-якої реєстрації?
 
 ### Tabs
 To add switchable content, use tabs (start typing `tabs` on a new line).
@@ -54,7 +49,7 @@ For example, you can collapse a chapter that contains non-essential information 
 Content under such header will be collapsed by default, but you can modify the behavior by adding the following attribute:
 `default-state="expanded"`
 
-## Чи знаєте ви кейси коли українці приїздили в Албанію і користувалися правом 2х років (не оформлюючи жодних документів) чи платять якісь податки в Албанії?
+## Чи знаєте ви кейси, коли українці приїздили в Албанію і користувалися правом двох років (не оформлюючи жодних документів) чи платять якісь податки в Албанії?
 If you need to extend an element with more functions, you can convert selected content from Markdown to semantic markup.
 For example, if you want to merge cells in a table, it's much easier to convert it to XML than do this in Markdown.
 Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut>:
