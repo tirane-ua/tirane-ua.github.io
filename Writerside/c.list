@@ -2,7 +2,7 @@
 <!DOCTYPE categories
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
 <categories>
-    <category id="wrs" name="Законодавство Албанії" order="1"/>
+    <category id="legal" name="Законодавство Албанії" order="1"/>
     <category id="delivery" name="Доставка, пошта" order="2"/>
     <category id="car-rental" name="Прокат авто" order="3"/>
     <category id="driving-school" name="Автошколи" order="4"/>
