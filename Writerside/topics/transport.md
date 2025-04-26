@@ -81,7 +81,9 @@ Green Taxi(електро) півроку тому мало фіксований
 
 - Smart Taxi у Вотсапі <a href="tel:+355697020002">+355697020002</a>
 
-- Попалась реклама, може кому знадобиться - аеропорт 800 лек таксі: <img src="tia_taxi_al.png" width="400"/>
+- Попалась реклама, може кому знадобиться - аеропорт 800 лек таксі: 
+
+<img src="tia_taxi_al.png" width="400"/>
 
 <tip>Електричні таксі- дешевші!</tip>
 
@@ -129,7 +131,8 @@ Green Taxi(електро) півроку тому мало фіксований
 ##  Підскажіть, будь ласка, скільки коштує проїзд Тирана - Вльора
 - 600 це якщо їхати з міста, з South and North Albania Bus Terminal (Bus Station).
 
-## Розклад <a href="https://maps.app.goo.gl/PHCNPi3po3x9askW7">Шкодер - Тірана</a>
+## Розклад Шкодер - Тірана
+<a href="https://maps.app.goo.gl/PHCNPi3po3x9askW7">https://maps.app.goo.gl/PHCNPi3po3x9askW7</a>
   
 ## Розклад автобусів з Тірани в інші міста Албанії:
 <img src="bus_schedule.jpg" width="600"/>

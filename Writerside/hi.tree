@@ -7,15 +7,9 @@
                  start-page="index.md">
 
     <toc-element topic="index.md"/>
-    <toc-element topic="Tutorial.md"/>
-    <toc-element topic="Житло-оренда-житла.md"/>
-    <toc-element topic="Мобільний-зв-язок.md"/>
-    <toc-element topic="Інтернет.md"/>
-    <toc-element topic="Транспорт.md"/>
-    <toc-element topic="Медицина.md"/>
-    <toc-element topic="Магазини-покупки.md"/>
-    <toc-element topic="Ресторани-бари.md"/>
-    <toc-element topic="Доставка-пошта.md"/>
-    <toc-element topic="Авто.md"/>
-    <toc-element topic="Інше.md"/>
+    <toc-element topic="housing-rent.md"/>
+    <toc-element topic="transport.md"/>
+    <toc-element topic="restaurants-bars.md"/>
+    <toc-element topic="mail-delivery.md"/>
+    <toc-element topic="auto.md"/>
 </instance-profile>
