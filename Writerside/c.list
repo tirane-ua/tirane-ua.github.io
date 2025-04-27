@@ -6,4 +6,5 @@
     <category id="delivery" name="Доставка, пошта" order="2"/>
     <category id="car-rental" name="Прокат авто" order="3"/>
     <category id="driving-school" name="Автошколи" order="4"/>
+    <category id="atm" name="Банкомати з NCF" order="5"/>
 </categories>

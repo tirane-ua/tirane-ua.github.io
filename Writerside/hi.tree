@@ -12,4 +12,11 @@
     <toc-element topic="restaurants-bars.md"/>
     <toc-element topic="mail-delivery.md"/>
     <toc-element topic="auto.md"/>
+    <toc-element topic="money-banks.md">
+        <toc-element topic="get-money.md"/>
+        <toc-element topic="put-money.md"/>
+        <toc-element topic="import-money.md"/>
+        <toc-element topic="exchange.md"/>
+        <toc-element topic="account.md"/>
+    </toc-element>
 </instance-profile>
