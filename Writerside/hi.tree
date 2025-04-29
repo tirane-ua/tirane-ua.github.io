@@ -4,9 +4,11 @@
 
 <instance-profile id="hi"
                  name="Українці в Тирані | Албанія"
-                 start-page="index.md">
+                 start-page="stay-in-albania.md">
 
-    <toc-element topic="index.md"/>
+    <toc-element topic="stay-in-albania.md">
+        <toc-element topic="crossing-the-border.md"/>
+    </toc-element>
     <toc-element topic="housing-rent.md"/>
     <toc-element topic="transport.md"/>
     <toc-element topic="restaurants-bars.md"/>
