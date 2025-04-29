@@ -12,7 +12,7 @@
 інфи багато, усюди +- однаково/
 
 <seealso>
-    <category ref="money">
-        <a href="https://dogana.gov.al/english/c/168/174/195/cash-declaration">Декларація грошей</a>
+    <category ref="legal">
+        <a href="https://dogana.gov.al/english/c/168/174/195/cash-declaration">Декларування грошей</a>
     </category>
 </seealso>
