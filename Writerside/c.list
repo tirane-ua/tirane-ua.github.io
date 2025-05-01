@@ -8,4 +8,6 @@
     <category id="driving-school" name="Автошколи" order="4"/>
     <category id="atm" name="Банкомати з NCF" order="5"/>
     <category id="embassy" name="Посольство України в Албанії" order="5"/>
+    <category id="emergency" name="Екстрені служби" order="1"/>
+    <category id="community" name="Спільнота" order="1"/>
 </categories>
