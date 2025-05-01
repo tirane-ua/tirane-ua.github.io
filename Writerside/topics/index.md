@@ -4,7 +4,11 @@
 
 <seealso>
     <category ref="emergency">
-        <a href="tel:127">Поліція</a>
+        <a href="tel:129">Поліція</a>
+        <a href="tel:129">Дорожня поліція</a>
+        <a href="tel:127">Швидка допомога</a>
+        <a href="tel:128">Пожежна служба</a>
+        <a href="tel:125">Рятувальники на морі</a>
     </category>
     <category ref="embassy">
         <a href="https://albania.mfa.gov.ua/">Сайт</a>
