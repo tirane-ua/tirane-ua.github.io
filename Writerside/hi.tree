@@ -11,11 +11,6 @@
         <toc-element topic="crossing-the-border.md"/>
         <toc-element topic="documents.md"/>
     </toc-element>
-    <toc-element topic="housing-rent.md"/>
-    <toc-element topic="transport.md"/>
-    <toc-element topic="restaurants-bars.md"/>
-    <toc-element topic="mail-delivery.md"/>
-    <toc-element topic="auto.md"/>
     <toc-element topic="money-banks.md">
         <toc-element topic="get-money.md"/>
         <toc-element topic="put-money.md"/>
@@ -23,4 +18,12 @@
         <toc-element topic="exchange.md"/>
         <toc-element topic="account.md"/>
     </toc-element>
+    <toc-element topic="housing-rent.md"/>
+    <toc-element topic="medicine.md"/>
+    <toc-element topic="transport.md"/>
+    <toc-element topic="restaurants-bars.md"/>
+    <toc-element topic="auto.md"/>
+    <toc-element topic="mail-delivery.md"/>
+
+
 </instance-profile>
