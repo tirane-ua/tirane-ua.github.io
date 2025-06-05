@@ -4,9 +4,17 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
+        <offline-docs>true</offline-docs>
         <analytics-head-script-file>
             google-analytics-code.js
         </analytics-head-script-file>
+        <resizable-sidebar>true</resizable-sidebar>
+        <!-- noindex-content>false</noindex-content -->
     </variables>
 
+    <footer>
+        <social type="telegram" href="https://t.me/tirana_ua">Чат "Українці в Тирані"</social>
+    </footer>
+
+    <sitemap priority="0.35" change-frequency="monthly"/>
 </buildprofiles>
