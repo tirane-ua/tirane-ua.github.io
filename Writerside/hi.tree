@@ -22,6 +22,12 @@
     <toc-element topic="mobile.md"/>
     <toc-element topic="internet.md"/>
     <toc-element topic="medicine.md"/>
+    <toc-element topic="shopping.md">
+        <toc-element topic="malls.md"/>
+        <toc-element topic="food.md"/>
+        <toc-element topic="technics.md"/>
+        <toc-element topic="other.md"/>
+    </toc-element>
     <toc-element topic="transport.md"/>
     <toc-element topic="restaurants-bars.md"/>
     <toc-element topic="auto.md"/>
