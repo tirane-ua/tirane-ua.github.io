@@ -16,6 +16,8 @@
     </category>
     <category ref="community">
         <a href="https://t.me/tirana_ua">Чат "Українці в Тирані"</a>
-        <a href="https://t.me/AlbaniaUkraine">Чат "Албанія для укранців"</a>
+        <a href="https://t.me/AlbaniaUkraine">Чат "Албанія для українців"</a>
+        <a href="https://t.me/albaniavlore">Чат українців у Вльорі</a>
+        <a href="https://t.me/+DjzdcsZ8oM5kY2E6">Чат для походів</a>
     </category>
 </seealso>

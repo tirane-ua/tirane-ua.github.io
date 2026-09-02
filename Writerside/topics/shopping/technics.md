@@ -29,3 +29,9 @@ Megatek - [https://www.megateksa.com/en/](https://www.megateksa.com/en/)
 
 ## Підкажіть будь ласка інтернет магазини у Тирані з вибором бюджетних ноутбуків.
 [German Computers](https://maps.app.goo.gl/HZNdtagJyGWuc1H3A?g_st=ic) - умовно поруч з ними є ще American Computers.
+
+## Де купити б/у ноутбук або монітор?
+
+[American Computers](https://maps.app.goo.gl/6CjYeaoBLaxDdAgV8) — є б/у лаптопи з класною
+конфігурацією, зокрема ігрові, за хорошою ціною. Гарантія — півроку.
+

@@ -13,7 +13,7 @@
 - Rruga Abdi Toptani 1001, Tiranë
 - “Flo” - турецький магазин. Є в ТЕG. Може ще де є - в Турречині в них купляла балетки. 4 сезони
   відносила на ура.
-- Фло это самое жуткое качество. Вам повезло.
+- Flo — це найжахливіша якість. Вам пощастило.
 
 ## Підскажіть будь ласка де можно купити художні матеріали професійні?
 https://maps.app.goo.gl/Uf4DBMgsw1DrvbDM6?g_st=ic мені говорили про цей, але сама не дішла ще.
@@ -25,6 +25,12 @@ https://maps.app.goo.gl/9z5LNBx7koJzJYr79
 [Lujon Flowers](https://maps.app.goo.gl/fAQFLH6HmHNggo2o8)
 [Riend Flowers](https://maps.app.goo.gl/rZQydxRdMeSDi5zY7)
 [Drurata](https://dhurata.com/en/)
+
+## Де купити стіл, меблі, товари для дому?
+
+- Jysk, але там не завжди є те, що треба:
+  https://maps.app.goo.gl/Z8mMfQzw6i987qKn8?g_st=ic
+- Nova та Megatek.
 
 ## Спортінвентар:
 - В InterSport є гарний вибір. Їх декілька по Тірані.
